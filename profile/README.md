@@ -16,12 +16,7 @@ Mission 1.5° empowers citizens and volunteers to actively participate in enviro
     <img alt="Active participants of The-Climate-Intelligence-Network" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=216048284&period=past_12_months&image_size=4x3&color_scheme=light" width="273" height="auto">
   </picture>
 </a>
-<a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=216048284&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=216048284&period=past_12_months&image_size=5x5&color_scheme=dark" width="465" height="auto">
-    <img alt="Most engaged people of The-Climate-Intelligence-Network" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=216048284&period=past_12_months&image_size=5x5&color_scheme=light" width="465" height="auto">
-  </picture>
-</a>
+
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 ### Organization Overview
@@ -40,7 +35,7 @@ Mission 1.5° empowers citizens and volunteers to actively participate in enviro
 </a>
 <a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stats?activity=issues&owner_id=216048284&period=past_12_months" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=issues&owner_id=216048284&period=past_12_months&image_size=2x2&color_scheme=dark" width="177" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=issues&owner_id=216048284&period=past_12_months&image_size=2x2&color_scheme=dark" width="auto" height="auto">
     <img alt="[Overview] issues of The-Climate-Intelligence-Network" src="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=issues&owner_id=216048284&period=past_12_months&image_size=2x2&color_scheme=light" width="177" height="auto">
   </picture>
 </a>
