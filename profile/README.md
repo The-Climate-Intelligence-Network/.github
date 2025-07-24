@@ -9,13 +9,7 @@ Mission 1.5° empowers citizens and volunteers to actively participate in enviro
 
 ### Contributor Hall of Fame
 <!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=participants&owner_id=216048284&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=216048284&period=past_12_months&image_size=4x3&color_scheme=dark" width="273" height="auto">
-    <img alt="Active participants of The-Climate-Intelligence-Network" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=216048284&period=past_12_months&image_size=4x3&color_scheme=light" width="273" height="auto">
-  </picture>
-</a>
+[![Active participants of The-Climate-Intelligence-Network](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=216048284&period=past_12_months&image_size=4x3&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=participants&owner_id=216048284&period=past_12_months)
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
