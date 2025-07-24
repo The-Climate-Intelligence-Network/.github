@@ -8,10 +8,12 @@ Mission 1.5° empowers citizens and volunteers to actively participate in enviro
 [Mission 1.5°](https://github.com/The-Climate-Intelligence-Network/mission1.5)
 
 ### Contributor Hall of Fame
-<!-- Copy-paste in your Readme.md file -->
-[![Active participants of The-Climate-Intelligence-Network](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=216048284&period=past_12_months&image_size=4x3&color_scheme=dark)](https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=participants&owner_id=216048284&period=past_12_months)
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<a href="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter?owner_id=216048284&period=past_12_months" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=216048284&period=past_12_months&image_size=5x5&color_scheme=dark" width="auto" height="auto">
+    <img alt="Most engaged people of The-Climate-Intelligence-Network" src="https://next.ossinsight.io/widgets/official/compose-org-engagement-scatter/thumbnail.png?owner_id=216048284&period=past_12_months&image_size=5x5&color_scheme=light" width="465" height="auto">
+  </picture>
+</a>
 
 ### Organization Overview
 <!-- Copy-paste in your Readme.md file -->
@@ -29,20 +31,18 @@ Mission 1.5° empowers citizens and volunteers to actively participate in enviro
 </a>
 <a href="https://next.ossinsight.io/widgets/official/compose-org-overview-stats?activity=issues&owner_id=216048284&period=past_12_months" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=issues&owner_id=216048284&period=past_12_months&image_size=2x2&color_scheme=dark" width="auto" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=issues&owner_id=216048284&period=past_12_months&image_size=2x2&color_scheme=dark" width="177" height="auto">
     <img alt="[Overview] issues of The-Climate-Intelligence-Network" src="https://next.ossinsight.io/widgets/official/compose-org-overview-stats/thumbnail.png?activity=issues&owner_id=216048284&period=past_12_months&image_size=2x2&color_scheme=light" width="177" height="auto">
   </picture>
 </a>
 <br>
 <!-- Copy-paste in your Readme.md file -->
-<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-growth?activity=new&owner_id=216048284&period=past_28_days" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-growth?activity=active&owner_id=216048284&period=past_28_days" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?activity=new&owner_id=216048284&period=past_28_days&image_size=4x7&color_scheme=dark" width="657" height="auto">
-    <img alt="New trends of The-Climate-Intelligence-Network" src="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?activity=new&owner_id=216048284&period=past_28_days&image_size=4x7&color_scheme=light" width="657" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?activity=active&owner_id=216048284&period=past_28_days&image_size=4x7&color_scheme=dark" width="657" height="auto">
+    <img alt="Active trends of The-Climate-Intelligence-Network" src="https://next.ossinsight.io/widgets/official/compose-org-participants-growth/thumbnail.png?activity=active&owner_id=216048284&period=past_28_days&image_size=4x7&color_scheme=light" width="657" height="auto">
   </picture>
 </a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 
